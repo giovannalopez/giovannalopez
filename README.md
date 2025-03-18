@@ -2,7 +2,7 @@
 
 👩‍💻 **Sobre mim**  
 
-Estudante de programação apaixonada por tecnologia e inovação. Sempre explorando novas linguagens e frameworks! 🚀  
+Estudante de programação apaixonada por tecnologia e inovação! 🚀  
 
 🔹 **Carreira**  
 
