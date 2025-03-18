@@ -16,7 +16,9 @@ Java
 SQL  
 Python  
 
-📫 **Entre em contato:** 
+📫 **Contato:** 
 
 [LinkedIn](https://www.linkedin.com/in/giovannalopes2006/)  
 [GitHub](https://github.com/giovannalopez)
+
+📧 **Email:** giovanna.lsantos28@gmail.com
