@@ -18,9 +18,7 @@ Python
 
 📫 **Contato:** 
 
--
 [LinkedIn](https://www.linkedin.com/in/giovannalopes2006/)  
--
 [GitHub](https://github.com/giovannalopez)
-
-- giovanna.lsantos28@gmail.com
+<br>
+giovanna.lsantos28@gmail.com
