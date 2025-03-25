@@ -12,10 +12,10 @@ Estudante de programação apaixonada por tecnologia e inovação!
 
 🔧 **Tecnologias que estudo:**  
 
-Java  
-MySQL/PostgreSQL
-Git/GitHub
-Spring Boot
+- Java  
+- MySQL/PostgreSQL
+- Git/GitHub
+- Spring Boot
 
 📫 **Contato:** 
 
