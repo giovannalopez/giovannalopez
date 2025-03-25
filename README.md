@@ -1,20 +1,21 @@
 # 💻 Giovanna | @giovannalopez  
 
-👩‍💻 **Sobre mim**  
+👩‍💻 **Sobre mim:**  
 
 Estudante de programação apaixonada por tecnologia e inovação! 
 
-🔹 **Carreira**  
+🔹 **Carreira:**  
 
-- Estudante de desenvolvimento de sistemas 
-- Focada em desenvolvimento web e backend  
-- Aprendendo boas práticas e arquiteturas modernas  
+- Estudante do curso técnico de desenvolvimento de sistemas no SENAC
+- Focada em desenvolvimento backend, com interesse em boas práticas, arquiteturas modernas e integração de sistemas.
+- Em constante evolução, explorando novas tecnologias e metodologias de desenvolvimento. 
 
-🔧 **Tecnologias que uso:**  
+🔧 **Tecnologias que estudo:**  
 
 Java  
-SQL  
-Python  
+MySQL/PostgreSQL
+Git/GitHub
+Spring Boot
 
 📫 **Contato:** 
 
